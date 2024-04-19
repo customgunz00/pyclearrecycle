@@ -8,4 +8,4 @@ def clear_recycle_bin():
     pass
 
 clear_recycle_bin()
-print("Recycle Bin Cleared (if it had any contents)"
+print("Recycle Bin Cleared (if it had any contents)")
